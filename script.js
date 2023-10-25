@@ -1,18 +1,18 @@
 //your JS code here. If required.
 function playAudio() {
 	let audio = document.getElementById("btn-1");
-	audio.play();
+	btn-1.play();
 	let audio = document.getElementById("btn-2");
-	audio.play();
+	btn-2.play();
 	let audio = document.getElementById("btn-3");
-	audio.play();
+	btn-3.play();
 	let audio = document.getElementById("btn-4");
-	audio.play();
+	btn-4.play();
 	let audio = document.getElementById("btn-5");
-	audio.play();
+	btn-5.play();
 	let audio = document.getElementById("btn-6");
-	audio.play();
+	btn-6.play();
 	let audio = document.getElementById("btn-7");
-	audio.play();
+	btn-7.play();
 	
 }
